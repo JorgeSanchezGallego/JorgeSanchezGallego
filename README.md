@@ -1,14 +1,14 @@
 <h1>HELLO, Welcome to my cave! 💻🤪 </h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">
 
-<h2>Really do you want to know about me? 😎 </h2>
+<h2>Do you really want to know about me? 😎 </h2>
 <ul>
-  <li>📚 I'm studiyng a grade of Web Developer Full Stack in "The Power"</li>
-  <li>🌱I'm a simply guy, I was born in Alicante (Spain), where the sun lives and I have 29 years old</li>
-  <li>🖥I love computers world and videogames, specially Call of duty 🔫</li>
-  <li>🙄Sometimes I hate the people, but only sometimes </li>
+  <li>📚 I'm studying for a Full Stack Web Developer degree at "The Power."</li>
+  <li>🌱 I'm a simple guy. I was born in Alicante, Spain, where the sun shines, and I'm 29 years old.</li>
+  <li>🖥 I love the world of computers and video games, especially Call of Duty. 🔫</li>
+  <li>🙄Sometimes I hate people, but only sometimes </li>
   <li>🔴🔵Fc Barcelona Supporter!🔴🔵</li>
-  <li>🏃‍♂️I love all the sports,but actually I'm runner and trail runner!🏔 </li>
+  <li>🏃‍♂️I love all sports, but right now, I'm a runner and trail runner!!🏔 </li>
 </ul>
 <h2>My skills include</h2>
 <p>Languages</p>
